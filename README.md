@@ -1,7 +1,7 @@
 # Pangkat Kali Modulo
-Menetukan pangkat kali dengan Python 
+Menentukan pangkat kali dengan Python 
 - Menentukan sisa pembagian x^b mod n
-- Input:Misal
+- Input: Misal 2^5 mod 5 = 2, 
     Nilai x : 2
     Nilai b : 5
     Nilai n : 5
