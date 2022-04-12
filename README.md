@@ -1,4 +1,10 @@
 # Pangkat Kali Modulo
-Menetukan median data tunggal dengan Python
-- Data yang diinput dalam program Python ini hanya 6 buat, tetapi bisa diedit di syntaxnya
-- Median merupakan nilai tengan dari data
+Menetukan pangkat kali dengan Python 
+- Menentukan sisa pembagian x^b mod n
+- Input:Misal
+    Nilai x : 2
+    Nilai b : 5
+    Nilai n : 5
+- Output:
+    x^b mod n =  2
+    Time:  2.6994000000613028e-05
